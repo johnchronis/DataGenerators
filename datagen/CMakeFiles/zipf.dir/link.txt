@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libzipf.a  CMakeFiles/zipf.dir/zipf.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libzipf.a

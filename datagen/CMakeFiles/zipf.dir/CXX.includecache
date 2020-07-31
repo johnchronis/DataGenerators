@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chronis/JoinsRevisited/datagen/zipf.cpp
+zipf.h
+/Users/chronis/JoinsRevisited/datagen/zipf.h
+
+/Users/chronis/JoinsRevisited/datagen/zipf.h
+cmath
+-
+random
+-
+
